@@ -21,7 +21,8 @@ The main objectives:
 
 Use collaborative filtering to recommend movies based on users' past ratings.
 Provide both user-based and item-based recommendations to optimize accuracy.
-Dataset
+
+#Dataset
 The project uses two primary datasets:
 
 Movie Dataset - Contains movie IDs, titles, and genres.
